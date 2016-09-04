@@ -1,3 +1,0 @@
-# Go Shopping
-
-Go 
